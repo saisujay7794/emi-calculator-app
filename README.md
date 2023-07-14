@@ -1,4 +1,4 @@
-<h1>💫JavaScript Functions</h1>
+<h1>💫EMI Calculator App</h1>
 
    <h2 class="section-title">🔭Overview</h2>
     <p class="section-content">
